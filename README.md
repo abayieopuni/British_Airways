@@ -1,5 +1,19 @@
-# British_Airways
-![image](https://github.com/abayieopuni/British_Airways/assets/58043840/2e3d6358-5020-46e7-b9cd-67a5ed66f97d)
-Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways .
+<img src="https://user-images.githubusercontent.com/68168071/208015626-505dc939-4551-4ccc-a60e-18827d60bf66.png" alt="Alt text" title="Optional title">
 
-Analyze customer reviews using sentimental analysis to sort positive and negative reviews.
+# British-Airways-Virtual-Experience-Program
+
+Data science virtual internship programme by British Airways through Forage!
+
+# Tools Used
+
+- Beautiful Soup
+- Vader Sentiment Analysis
+- nltk
+- Pandas
+- Seaborn
+- Matplotlib
+
+# Task 1
+
+- Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
+- Analyze customer reviews using vader sentimental analysis to sort positive and negative reviews.
